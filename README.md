@@ -32,7 +32,3 @@ This repository contains Jupyter notebooks for analyzing reduced electroluminesc
 ## Author
 
 mzjswjz
-
-## License
-
-MIT
